@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/f56b52af-752f-48ab-8c56-497594f3ec2a/instagram-image2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20250217%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20250217T122203Z&X-Amz-Expires=86400&X-Amz-Signature=48aecddcf7537e55c7affeeaddd590e624695b6195329aa7b48a0652e9abea0a&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22instagram-image2.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject
